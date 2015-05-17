@@ -1,6 +1,8 @@
 KiCad
 =====
 
+[![Join the chat at https://gitter.im/kylemanna/KiCad](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/kylemanna/KiCad?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 KiCad modules, libraries, templates, and 3D models as created by AB2 Technologies.
 
 [http://www.ab2tech.com](http://www.ab2tech.com "AB2 Technologies")
